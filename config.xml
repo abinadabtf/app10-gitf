@@ -2,13 +2,13 @@
 
  <widget xmlns   = "http://www.w3.org/ns/widgets"  
      xmlns:gap = "http://phonegap.com/ns/1.0"  
-     id = "com.phonegap.app9" 
+     id = "com.phonegap.app10" 
      version  = "1.0.0">  
 	 
-	  <name> app9 Geolocalizacion</name>
+	  <name> app10 Proyecto final</name>
 	  
 	  <description>
-	  	Muestra la ubicacion del dispositivo de acuerdo al GPS
+	  	Tutorial DAW
 	  </description>
 	  
 	  <author href="https://build.phonegap.com" email="AbithasZ19@gmail.com">
